@@ -1,0 +1,9 @@
+#Item
+item.testSword.name=测试剑
+item.testIngot.name=测试锭
+
+#Block
+tile.testore.name=测试矿
+
+#ItemGroup
+itemGroup.testmod=测试物品栏

@@ -1,0 +1,12 @@
+[{
+  "modid": "testmod",
+  "name": "Test Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "assets/testmod/textures/logo.png",
+  "url": "https://github.com/vXadminXv/TestMod",
+  "updateJSON": "",
+  "authorList": ["admin"],
+  "credits": ""
+}]

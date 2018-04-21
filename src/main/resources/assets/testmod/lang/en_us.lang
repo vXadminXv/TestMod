@@ -1,0 +1,9 @@
+#Item
+item.testSword.name=Test Sword
+item.testIngot.name=Test Ingot
+
+#Block
+tile.testore.name=Test Ore
+
+#ItemGroup
+itemGroup.testmod=TestMod CreativeTabs
